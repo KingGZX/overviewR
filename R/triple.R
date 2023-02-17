@@ -1,3 +1,3 @@
 tri <- function(x){
-  x^100
+  x^3
 }
